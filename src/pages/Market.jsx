@@ -8,3 +8,5 @@ const Market = () => {
         <div>Market</div>
     )
 }
+
+export default Market
